@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+git start tracking changes to files in directory. for version control
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+helps to add files which are to be tracked by git. helps version control
