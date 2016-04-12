@@ -3,3 +3,21 @@ git start tracking changes to files in directory. for version control
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 helps to add files which are to be tracked by git. helps version control
+
+How can you use the staging area to make sure you have one commit per logical change?
+we will add file to staging area which is to be commited and then commit the change
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when two people working on same piece of code
+
+How do the diagrams help you visualize the branch structure?
+it helps us to check for any unreachable commit in our code
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+we can combine code
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros all changes  are maintained
+cons : some changes  might be lost
